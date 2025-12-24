@@ -34,7 +34,7 @@ This project was developed as part of the CS 1103 Programming 2 course (Unit 6).
 2.  Open your terminal or command prompt.
 3.  Run the following command:
     ```bash
-    java -jar GenericLibraryCatalog.jar
+    java -jar GenericLibrary.jar
     ```
 
 ### Method 2: From Source
